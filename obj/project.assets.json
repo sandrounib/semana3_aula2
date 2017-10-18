@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\semana3_aula2\\semana3_aula2.csproj",
+      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\semana3_aula2\\semana3_aula2.csproj",
       "projectName": "semana3_aula2",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\semana3_aula2\\semana3_aula2.csproj",
+      "projectPath": "c:\\Users\\FIC\\Desktop\\semana3_aula2\\semana3_aula2.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\semana3_aula2\\obj\\",
+      "outputPath": "c:\\Users\\FIC\\Desktop\\semana3_aula2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
